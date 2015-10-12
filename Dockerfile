@@ -1,4 +1,4 @@
-FROM ahmadiq/java:7
+FROM ahmadiq/java:jdk8u25
 MAINTAINER Ahmad <ahmad@aurorasolutions.io>
 
 RUN apt-get update && \
